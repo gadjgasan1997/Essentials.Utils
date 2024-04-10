@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a3cac02-31a7-4234-92b8-81805de394b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Essentials.Utils/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essentials.Utils.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essentials.Utils.sln.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essentials.Utils.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuget.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publish/publish.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publish/settings.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/ArrayPoolHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Collections/Extensions/DictionariesExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Collections/Extensions/EnumerableExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Date/Helpers/DateTimeHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Delegates/ActionRef.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Dictionaries/KnownCultures.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Dictionaries/KnownDatesFormats.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Dictionaries/TestsCoverageExcludeReasons.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/DisposeActionWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Essentials.Utils.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Extensions/ObjectsChecksExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Extensions/ObjectsExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Extensions/ReaderWriterLockSlimExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Extensions/StringExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Extensions/TaskTuplesExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/IO/Extensions/StreamExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/IO/Writers/StringWriterWithEncoding.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Attributes/RequiredWhenAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Extensions/AssemblyExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Extensions/ObjectsChecksExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Extensions/PropertiesExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Extensions/TypeInfoExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Helpers/AssemblyHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Essentials.Utils.Core/Reflection/Helpers/EnumHelpers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gadjgasan1997"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gadjgasan1997/Essentials.Utils.git",
+    "accountId": "1660a570-f201-4aec-962c-74e3eb60abe1"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2euqtzludNXf8OSfVrtyUskoGOs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Batch.publish.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\gadjg\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\gadjg\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\gadjg\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="publish" type="BatchConfigurationType" factoryName="Batch">
+      <module name="rider.module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="./publish" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="publish.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3cac02-31a7-4234-92b8-81805de394b2" name="Changes" comment="" />
+      <created>1712765031218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712765031218</updated>
+      <workItem from="1712765033364" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

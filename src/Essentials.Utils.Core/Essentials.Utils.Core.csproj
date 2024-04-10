@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Essentials.Utils</RootNamespace>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <PackageId>Essentials.Utils</PackageId>
+        <Version>1.0.0.0</Version>
+        <Authors>Gadzhinskiy</Authors>
+        <Company>Gadzhinskiy</Company>
+        <Product>Essentials.Utils</Product>
+        <Description>
+            Утилиты общего назначения
+        </Description>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+</Project>
