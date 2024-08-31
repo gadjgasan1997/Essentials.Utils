@@ -20,14 +20,16 @@ public static class StringExtensions
     /// </summary>
     /// <param name="value">Строка</param>
     /// <returns></returns>
-    public static string FullTrim(this string value) => value.Replace(" ", string.Empty);
+    public static string? FullTrim([NotNullIfNotNull(nameof(value))] this string? value) =>
+        value?.Replace(" ", string.Empty);
 
     /// <summary>
     /// Обрезает строку вначале и в конце
     /// </summary>
     /// <param name="value">Строка</param>
     /// <returns></returns>
-    public static string TrimStartAndEnd(this string value) => value.TrimStart().TrimEnd();
+    public static string? TrimStartAndEnd([NotNullIfNotNull(nameof(value))] this string? value) =>
+        value?.TrimStart().TrimEnd();
     
     /// <summary>
     /// Пытается распарсить Enum из строки
