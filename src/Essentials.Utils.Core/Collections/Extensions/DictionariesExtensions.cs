@@ -48,6 +48,38 @@ public static class DictionariesExtensions
     }
     
     /// <summary>
+    /// Объединяет справочники
+    /// </summary>
+    /// <param name="dictionaries">Справочники</param>
+    /// <typeparam name="TKey">Тип ключа</typeparam>
+    /// <typeparam name="TValue">Тип значения</typeparam>
+    /// <returns>Результирующий справочник</returns>
+    public static Dictionary<TKey, TValue> Merge<TKey, TValue>(
+        this IEnumerable<Dictionary<TKey, TValue>> dictionaries)
+        where TKey : notnull
+    {
+        return dictionaries
+            .SelectMany(dictionary => dictionary)
+            .ToDictionary(pair => pair.Key, pair => pair.Value);
+    }
+    
+    /// <summary>
+    /// Объединяет справочники
+    /// </summary>
+    /// <param name="sourceDictionary">Исходный справочник</param>
+    /// <param name="newDictionary">Новый справочник</param>
+    /// <typeparam name="TKey">Тип ключа</typeparam>
+    /// <typeparam name="TValue">Тип значения</typeparam>
+    /// <returns>Результирующий справочник</returns>
+    public static Dictionary<TKey, TValue> Concat<TKey, TValue>(
+        this Dictionary<TKey, TValue> sourceDictionary,
+        Dictionary<TKey, TValue> newDictionary)
+        where TKey : notnull
+    {
+        return new [] {sourceDictionary, newDictionary}.Merge();
+    }
+    
+    /// <summary>
     /// Добавляет элемент в справочник или заменяет его по ключу
     /// </summary>
     /// <param name="dictionary">Справочник</param>
